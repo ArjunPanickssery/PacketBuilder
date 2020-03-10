@@ -1,6 +1,3 @@
-![PacketBuilder example](https://i.imgur.com/T8BixQk.png "PacketBuilder example")
-
-
 # PacketBuilder
 Converts qems output csv files into packetized pdfs
 
@@ -27,3 +24,5 @@ Based on [common principles of packetization](https://hsquizbowl.org/forums/view
 3. The last tossup should not be geography, current events, or trash.
 
 To avoid running forever, criterion 3 is abandoned after 1500 attempts, criterion 2 after 2000 attempts, and criterion 1 after 2500 attempts.
+
+![PacketBuilder example](https://i.imgur.com/T8BixQk.png "PacketBuilder example")
